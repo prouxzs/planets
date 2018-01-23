@@ -1,3 +1,8 @@
 planet size color
 jupiter big redspot
+venus
+mercury
+earth
+mars
+saturn
 
