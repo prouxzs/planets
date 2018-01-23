@@ -1,6 +1,6 @@
 planet size color
 jupiter big redspot
-venus
+venus small
 mercury
 earth
 mars
